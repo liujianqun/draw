@@ -1,41 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T07:32:04.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="sEKUIvGoAGKAcZ4v-0_W" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T07:32:26.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="RhH1zMZkthlxE-XeT3Hq" version="14.4.3" type="github">
   <diagram id="lgXi9MjqHc_8DvUxfvyU" name="Page-1">
-    <mxGraphModel dx="613" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vRhrMkSg3RcB3QoWlwg8-4" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="40" width="350" height="260" as="geometry" />
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-4" value="" style="group;fontStyle=1;fontSize=15;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="40" width="350" height="230" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry y="40" width="350" height="220" as="geometry" />
+          <mxGeometry y="35.38461538461539" width="350" height="194.6153846153846" as="geometry" />
         </mxCell>
-        <mxCell id="vRhrMkSg3RcB3QoWlwg8-3" value="安全编排和自动化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry width="350" height="40" as="geometry" />
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-3" value="安全编排和自动化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=16;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
+          <mxGeometry width="350" height="35.38461538461539" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-5" value="剧本管理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry x="10" y="50" width="150" height="170" as="geometry" />
+          <mxGeometry x="10" y="44.230769230769226" width="150" height="150.3846153846154" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-6" value="剧本管理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry x="21.25" y="80" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="21.25" y="70.76923076923077" width="127.5" height="26.538461538461537" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-7" value="工作流引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry x="21.25" y="120" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="21.25" y="106.15384615384615" width="127.5" height="26.538461538461537" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-15" value="剧本库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry x="42.5" y="160" width="85" height="55" as="geometry" />
+          <mxGeometry x="42.5" y="141.53846153846155" width="85" height="48.65384615384615" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-16" value="动作管理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry x="180" y="50" width="150" height="170" as="geometry" />
+          <mxGeometry x="180" y="44.230769230769226" width="150" height="150.3846153846154" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-18" value="动作接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry x="191.25" y="120" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="191.25" y="106.15384615384615" width="127.5" height="26.538461538461537" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-19" value="动作库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry x="220" y="160" width="85" height="55" as="geometry" />
+          <mxGeometry x="220" y="141.53846153846155" width="85" height="48.65384615384615" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-20" value="动作接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
-          <mxGeometry x="191.25" y="80" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="191.25" y="70.76923076923077" width="127.5" height="26.538461538461537" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
