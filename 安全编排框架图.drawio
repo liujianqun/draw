@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T08:26:01.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="AMDXA92mgbZw7GAeKNR7" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T08:35:08.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="VRPgcykC7R7VPGKriX0t" version="14.4.3" type="github">
   <diagram id="lgXi9MjqHc_8DvUxfvyU" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-20" value="动作接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-4">
           <mxGeometry x="191.25" y="76.92307692307692" width="127.5" height="28.846153846153843" as="geometry" />
         </mxCell>
-        <mxCell id="vRhrMkSg3RcB3QoWlwg8-21" value="剧本库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-21" value="安全场景" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-22" value="事件调查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -57,6 +57,81 @@
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-27" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-28" value="响应处置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-30" value="安全能力池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="430" y="470" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-31" value="策略安全" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=15;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="660" width="84" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-32" value="资产发现" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=15;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="660" width="84" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-33" value="漏洞扫描" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=15;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="323" y="662" width="84" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-34" value="基线检测" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=15;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="662" width="84" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-35" value="威胁情报" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=15;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="561.5" y="660" width="84" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-36" value="&lt;b&gt;```&lt;/b&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=15;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="660" width="84" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-37" value="漏洞扫描" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="441" y="355" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-38" value="基线核查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="387.5" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-39" value="IP封堵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="355" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-40" value="工单联动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="387.5" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-42" value="入侵检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="355" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-43" value="消息通知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="387.5" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-44" value="入侵检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="355" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-46" value="漏洞扫描" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="349" y="572" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-47" value="主机安全" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="443" y="572" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-48" value="入侵检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="572" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-49" value="消息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="572" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-50" value="CMDB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="719" y="572" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-51" value="防火墙" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="351" y="610" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-52" value="WAF" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="443" y="610" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-53" value="态势感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="610" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-54" value="jira" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="610" width="79" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-55" value="交换机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="719" y="610" width="79" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
