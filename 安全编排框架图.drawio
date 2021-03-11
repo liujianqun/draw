@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T11:43:47.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="DVMJQXmMgI8hf5jCmZoc" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T11:52:44.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qC8XapPxoI_RZJwggvw-" version="14.4.3" type="github">
   <diagram id="lgXi9MjqHc_8DvUxfvyU" name="Page-1">
     <mxGraphModel dx="1808" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="830" width="550" height="221.25" as="geometry" />
+          <mxGeometry x="30" y="1100" width="550" height="221.25" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-110" value="安全资源能力池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="77.05" y="840" width="502.95" height="70.17" as="geometry" />
+          <mxGeometry x="57.05" y="1110" width="502.95" height="70.17" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-21" value="安全场景" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-40" y="250" width="260" height="140" as="geometry" />
@@ -38,19 +38,19 @@
           <mxGeometry x="288" y="370" width="392" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-31" value="&lt;font style=&quot;font-size: 9px&quot;&gt;策略安全能力&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=9;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="90" y="870" width="85" height="30" as="geometry" />
+          <mxGeometry x="70" y="1140" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-32" value="资产发现能力" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="870" width="85" height="30" as="geometry" />
+          <mxGeometry x="167.5" y="1140" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-33" value="漏洞扫描能力" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="870" width="85" height="30" as="geometry" />
+          <mxGeometry x="262.5" y="1140" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-34" value="主机安全能力" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="380" y="868.89" width="85" height="30" as="geometry" />
+          <mxGeometry x="360" y="1138.8899999999999" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-35" value="数据防护能力" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="480" y="868.89" width="85" height="30" as="geometry" />
+          <mxGeometry x="460" y="1138.8899999999999" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-36" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;```&lt;/b&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="705" y="260" width="66" height="30" as="geometry" />
@@ -131,10 +131,10 @@
           <mxGeometry x="850" y="850" width="110" height="18.89" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-58" value="安全原子能力池" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="50" y="805.58" width="198.93617021276597" height="24.41770186335404" as="geometry" />
+          <mxGeometry x="30" y="1075.58" width="198.93617021276597" height="24.41770186335404" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-72" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="77.05045754596708" y="910.1699447895099" width="309.14808623962375" height="130.22774327122153" as="geometry" />
+          <mxGeometry x="57.05045754596708" y="1180.1699447895098" width="309.14808623962375" height="130.22774327122153" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-97" value="" style="group" vertex="1" connectable="0" parent="vRhrMkSg3RcB3QoWlwg8-72">
           <mxGeometry y="10.852311939268462" width="231.8610646797178" height="119.37543133195307" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="155.0087826160863" y="38.54347481021398" width="22.474034620505993" height="23.169107856191744" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-99" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="348.1878468425078" y="921.0222567287784" width="231.8610646797178" height="119.37543133195307" as="geometry" />
+          <mxGeometry x="328.1878468425078" y="1191.0222567287783" width="231.8610646797178" height="119.37543133195307" as="geometry" />
         </mxCell>
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-100" value="&lt;b&gt;云网安全能力插件&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-99">
           <mxGeometry width="231.8610646797178" height="119.37543133195307" as="geometry" />
@@ -229,13 +229,16 @@
         <mxCell id="vRhrMkSg3RcB3QoWlwg8-20" value="动作接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281.25" y="96.92307692307692" width="127.5" height="28.846153846153843" as="geometry" />
         </mxCell>
-        <mxCell id="vRhrMkSg3RcB3QoWlwg8-118" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="540" width="550" height="250" as="geometry" />
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="26.25" y="590" width="543.75" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="vRhrMkSg3RcB3QoWlwg8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-118">
-          <mxGeometry y="38.46153846153846" width="550" height="211.53846153846152" as="geometry" />
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-122" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="870" width="550" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="vRhrMkSg3RcB3QoWlwg8-3" value="安全编排和自动化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=16;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-118">
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-122">
+          <mxGeometry y="40" width="550" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vRhrMkSg3RcB3QoWlwg8-3" value="安全编排和自动化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=16;" vertex="1" parent="vRhrMkSg3RcB3QoWlwg8-122">
           <mxGeometry width="550" height="38.46153846153846" as="geometry" />
         </mxCell>
       </root>
