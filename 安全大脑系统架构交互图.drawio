@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T04:22:40.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="XhQzJdRVz9LRZQEKzQ8a" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T04:22:53.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="tfGw17W4HGE6uRJbkrbm" version="14.6.6" type="github">
   <diagram id="aFcd-sZfIuxCYyvOa6EC" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,9 +109,6 @@
         <mxCell id="FqToNLdHbUZbRF3IeUCB-31" value="数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="640" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FqToNLdHbUZbRF3IeUCB-33" value="人机协作中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" parent="1" vertex="1">
-          <mxGeometry x="849.9999999999999" y="960" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="FqToNLdHbUZbRF3IeUCB-37" value="态势可视" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1110" y="290" width="90" height="30" as="geometry" />
         </mxCell>
@@ -144,12 +141,6 @@
         </mxCell>
         <mxCell id="FqToNLdHbUZbRF3IeUCB-77" value="安全编排和自动化运营能力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1170" y="570" width="279.85" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="dza-2gSfmB_yBv6xaHkl-1" value="应用包管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1191.74" y="960" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dza-2gSfmB_yBv6xaHkl-2" value="工作流引擎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1017.8700000000001" y="960" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dza-2gSfmB_yBv6xaHkl-6" value="脆弱性评估能力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1170" y="465" width="125" height="40" as="geometry" />
