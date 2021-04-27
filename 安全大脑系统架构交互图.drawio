@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T04:35:52.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="q_tPh3xtjF0VDt7222sD" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T05:51:24.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="RZgsPu5ISlpQSzwrEtU0" version="14.6.6" type="github">
   <diagram id="aFcd-sZfIuxCYyvOa6EC" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,16 +47,16 @@
           <mxGeometry x="40" y="640" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uNM0V1RIPhNdZ5J6F5W2-35" value="数据预处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="260" y="640" width="130" height="20" as="geometry" />
+          <mxGeometry x="279.38" y="640" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uNM0V1RIPhNdZ5J6F5W2-36" value="威胁分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="480" y="640" width="130" height="20" as="geometry" />
+          <mxGeometry x="520" y="640" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uNM0V1RIPhNdZ5J6F5W2-37" value="响应处置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1122" y="640" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uNM0V1RIPhNdZ5J6F5W2-38" value="综合安全智能运营平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="510" y="160" width="370" height="20" as="geometry" />
+          <mxGeometry x="549" y="180" width="370" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uNM0V1RIPhNdZ5J6F5W2-40" value="&lt;b style=&quot;font-size: 19px&quot;&gt;安全应用包&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="899" y="430" width="270" height="185" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="1049" y="465" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqToNLdHbUZbRF3IeUCB-6" value="威胁情报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="444" y="525" width="100" height="30" as="geometry" />
+          <mxGeometry x="444" y="525" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FqToNLdHbUZbRF3IeUCB-10" value="IP地址位置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="579" y="525" width="100" height="30" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="1129" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FqToNLdHbUZbRF3IeUCB-38" value="资产数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="444" y="560" width="236" height="30" as="geometry" />
+          <mxGeometry x="444" y="560" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FqToNLdHbUZbRF3IeUCB-43" value="数据采集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="640" width="90" height="20" as="geometry" />
@@ -240,6 +240,15 @@
             <mxPoint x="132" y="313.41" as="sourcePoint" />
             <mxPoint x="181.99999999999955" y="313.41" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dza-2gSfmB_yBv6xaHkl-32" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="FqToNLdHbUZbRF3IeUCB-45">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="522" y="360" as="sourcePoint" />
+            <mxPoint x="602" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dza-2gSfmB_yBv6xaHkl-35" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="580" y="560" width="99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
