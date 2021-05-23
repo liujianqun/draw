@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T11:45:08.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.7.0" etag="gS-I9o91ca6g_T8PsJkY" type="github"><diagram id="snmTSZUqp4Ef1gkClFrM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-23T11:52:57.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="th3IXDj95t1TYK9kAbfN" version="14.7.0" type="github">
+  <diagram id="snmTSZUqp4Ef1gkClFrM" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SXkzhFEDn68RfaKezOgj-1" value="运营人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-3" value="技术人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-4" value="窃密人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="105" y="190" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-7" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-10" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="1">
+          <mxGeometry x="114.75" y="270" width="30.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-11" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="1">
+          <mxGeometry x="234.75" y="270" width="30.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-13" value="运营管理类系统（标准）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SXkzhFEDn68RfaKezOgj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
